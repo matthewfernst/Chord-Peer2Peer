@@ -1,4 +1,4 @@
-# chord_p2p
+# Chord Peer 2 Peer System
 Chord Peer 2 Peer System
 
 Help is provided for any questions that you have about running the command line options.  command prompt is optional for receiving input from user
